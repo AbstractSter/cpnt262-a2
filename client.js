@@ -24,6 +24,19 @@ decreaseButton.addEventListener("click", function () {
   decreaseCount();
 })
 
+// Convert number to string
+let text = number.toString(11);
+  document.getElementById("count").innerHTML;
+
+// Convert number to exponential notation
+const number = 1000000;
+  number.toExponential(1);
+  document.getElementById("count").innerHTML;
+
+
+
+
+// Show number of characters in string
 const myString = 'Counter';
 const stringLength = myString.length;
 
