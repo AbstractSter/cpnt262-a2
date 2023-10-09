@@ -5,6 +5,7 @@ Strings and Numbers | Before and After
 
 ### Attributions
 - [W3 Schools](https://www.w3schools.com/jsref/jsref_toexponential.asp)
+- [stack overflow](https://stackoverflow.com/)
 - [Programming with Mosh](https://www.youtube.com/watch?v=W6NZfCO5SIk&t=154s)
 - Classmates: Chad Cervantez, Ashkie Esperanza, Kevin Fula, John Dagsa
 
